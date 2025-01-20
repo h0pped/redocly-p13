@@ -1,0 +1,14 @@
+:root {
+    --heading-text-color: mediumseagreen;
+    --footer-bg-color: lightblue;
+    --navbar-bg-color: lightblue;
+    --font-size-base: 18px;
+
+  }
+
+  :root.dark {
+    --heading-text-color: mediumseagreen;
+    --footer-bg-color: darkblue;
+    --navbar-bg-color: darkblue;
+    --font-size-base: 18px;
+  }
