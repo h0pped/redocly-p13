@@ -16,3 +16,6 @@ footer:
             label: Markdoc
           - href: https://openapis.org
             label: OpenAPI
+
+statistics:
+    fileExtensions: true
